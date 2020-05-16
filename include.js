@@ -107,6 +107,7 @@ let cards = [
     ["Mounion vaakuna", "./Art/MAhoMaha12112017/MAhoMaha12112017.html", "./Art/MAhoMaha12112017/mouniovaakuna_pieni_skaalattu.PNG", "MAho", "https://github.com/MAhoMaha12112017"],
     ["bouncing ball", "./Art/jaeja/index.html", "./Art/jaeja/ball.PNG", "jae", "https://github.com/jaeja"],
     ["Egg", "./Art/tomikonio/egg.html", "./Art/tomikonio/egg.png", "tomikonio", "https://github.com/tomikonio"],
+    ["Boy", "./Art/Boy/index.html", "./Art/Boy/Boy with house.png", "Gajhendran", "https://github.com/Gajhendran"]
 ];
 
 
